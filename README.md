@@ -44,8 +44,8 @@ public class CharaInfo : MonoBehaviour
 
 }
 
-3. Gif file: ![](4210181008_Zsalsabilla_MiniApp.gif)
-https://media4.giphy.com/media/qAhcfyStm78vSHzrAe/giphy.gif
+3. Gif file: 
+![](4210181008_Zsalsabilla_MiniApp.gif)
 
 4. Descriptions:
 Pertama-tama, kita harus mendownload data yang ada pada file JSON terlebih dahulu dengan menggunakan plug in simple JSON yang di-attach pada project Unity.
