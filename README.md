@@ -4,7 +4,7 @@ Desain Multiplayer Game Online Assignment to make Mini Application.
 
 1. Project Title: Mini App - Froggie Box.
 
-2. Code:
+2. Code: ![](CharaInfo.cs)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
